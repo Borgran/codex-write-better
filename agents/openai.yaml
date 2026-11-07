@@ -1,0 +1,4 @@
+interface:
+  display_name: "write-better"
+  short_description: "Pisanie i redakcja tekstów dla czytelników"
+  default_prompt: "Użyj $write-better, aby przygotować gotowy do publikacji tekst na podstawie mojego briefu."
